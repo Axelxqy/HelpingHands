@@ -51,13 +51,13 @@ This section provides an overview of the HelpingHands application interface and 
 
 The Fund Raiser interface provides functionality for creating, managing and monitoring fundraising campaigns.
 
-| **Campaign Dashboard** |
-|:---:|:---:|
-| ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) 
+| Campaign Dashboard |
+|:---:|
+| ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) |
 
-| **Activity Tracking** |
-|:---:|:---:|
-| ![Activity Tracking](images/activity-tracking.png)
+| Activity Tracking |
+|:---:|
+| ![Activity Tracking](images/activity-tracking.png) |
 
 ### 3. Donee Interface
 
@@ -84,54 +84,3 @@ The administrative interface provides account management and platform-level func
 | ![Activity Reports](images/activity-reports.png)
 
 ---
-
-
-
-## Screenshots & Application Interface
-
-This section provides an overview of the HelpingHands application interface and its main functionalities across different user roles.
-
-### 1. General Interface
-
-| Homepage | Campaign Listing |
-|:---:|:---:|
-| ![Homepage](images/homepage.png) | ![Campaign Listing](images/campaign-listing.png) |
-
-### 2. Fund Raiser Interface
-
-The Fund Raiser interface provides functionality for creating, managing and monitoring fundraising campaigns.
-
-| Campaign Dashboard | Campaign Management |
-|:---:|:---:|
-| ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) | ![Campaign Management](images/campaign-management.png) |
-
-| Campaign Details | Activity Tracking |
-|:---:|:---:|
-| ![Campaign Details](images/campaign-details.png) | ![Activity Tracking](images/activity-tracking.png) |
-
-### 3. Donee Interface
-
-The Donee interface allows users to discover fundraising campaigns, manage their favourites and review donation history.
-
-| Campaign Discovery | Campaign Details |
-|:---:|:---:|
-| ![Campaign Discovery](images/campaign-discovery.png) | ![Campaign Details](images/donee-campaign-details.png) |
-
-| Favourites | Donation History |
-|:---:|:---:|
-| ![Favourites](images/favourites.png) | ![Donation History](images/donation-history.png) |
-
-### 4. Administrative Interface
-
-The administrative interface provides account management and platform-level functionality.
-
-| User Management | Category Management |
-|:---:|:---:|
-| ![User Management](images/user-management.png) | ![Category Management](images/category-management.png) |
-
-| Platform Dashboard | Activity Reports |
-|:---:|:---:|
-| ![Platform Dashboard](images/platform-dashboard.png) | ![Activity Reports](images/activity-reports.png) |
-
----
-
