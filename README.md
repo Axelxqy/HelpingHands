@@ -79,8 +79,8 @@ The administrative interface provides account management and platform-level func
 |:---:|:---:|
 | ![User Management](images/user-management.png) | ![Category Management](images/category-management.png) |
 
-| Platform Dashboard | Activity Reports |
-|:---:|:---:|
-| ![Activity Reports](images/activity-reports.png)
+| Activity Reports |
+|:---:|
+| ![Activity Reports](images/activity-reports.png) |
 
 ---
