@@ -55,7 +55,7 @@ The Fund Raiser interface provides functionality for creating, managing and moni
 |:---:|:---:|
 | ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) 
 
-| Campaign Details | Activity Tracking |
+| Activity Tracking |
 |:---:|:---:|
 | ![Activity Tracking](images/activity-tracking.png) 
 
