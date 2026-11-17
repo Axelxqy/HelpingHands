@@ -51,13 +51,13 @@ This section provides an overview of the HelpingHands application interface and 
 
 The Fund Raiser interface provides functionality for creating, managing and monitoring fundraising campaigns.
 
-| Campaign Dashboard | Campaign Management |
+| Campaign Dashboard |
 |:---:|:---:|
-| ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) | ![Campaign Management](images/campaign-management.png) |
+| ![Fund Raiser Dashboard](images/fundraiser-dashboard.png) 
 
 | Campaign Details | Activity Tracking |
 |:---:|:---:|
-| ![Campaign Details](images/campaign-details.png) | ![Activity Tracking](images/activity-tracking.png) |
+| ![Activity Tracking](images/activity-tracking.png) |
 
 ### 3. Donee Interface
 
@@ -81,7 +81,7 @@ The administrative interface provides account management and platform-level func
 
 | Platform Dashboard | Activity Reports |
 |:---:|:---:|
-| ![Platform Dashboard](images/platform-dashboard.png) | ![Activity Reports](images/activity-reports.png) |
+| ![Activity Reports](images/activity-reports.png) |
 
 ---
 
