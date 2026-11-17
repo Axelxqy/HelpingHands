@@ -57,7 +57,7 @@ The Fund Raiser interface provides functionality for creating, managing and moni
 
 | Campaign Details | Activity Tracking |
 |:---:|:---:|
-| ![Activity Tracking](images/activity-tracking.png) |
+| ![Activity Tracking](images/activity-tracking.png) 
 
 ### 3. Donee Interface
 
@@ -81,7 +81,7 @@ The administrative interface provides account management and platform-level func
 
 | Platform Dashboard | Activity Reports |
 |:---:|:---:|
-| ![Activity Reports](images/activity-reports.png) |
+| ![Activity Reports](images/activity-reports.png)
 
 ---
 
